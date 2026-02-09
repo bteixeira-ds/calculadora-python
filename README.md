@@ -1,4 +1,4 @@
-\# 🧮 Calculadora Simples em Python
+Calculadora Simples em Python
 
 
 
@@ -6,27 +6,26 @@ Projeto simples em Python criado para praticar lógica de programação e estrut
 
 
 
-\## 🚀 Funcionalidades
+Funcionalidades
 
-\- Recebe dois números do usuário
+- Recebe dois números do usuário
 
-\- Permite escolher a operação matemática:
+- Permite escolher a operação matemática:
 
-&nbsp; - Soma (+)
+- Soma (+)
 
-&nbsp; - Subtração (-)
+- Subtração (-)
 
-&nbsp; - Multiplicação (\*)
+- Multiplicação (\*)
 
-&nbsp; - Divisão (/)
+- Divisão (/)
 
-\- Exibe o resultado da operação
+- Exibe o resultado da operação
 
 
+Tecnologias utilizadas
 
-\## 🛠 Tecnologias utilizadas
-
-\- Python
+- Python
 
 
 
